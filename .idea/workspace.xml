@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d108154-1629-4812-be37-8e15fd1babc2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="muniandarapa: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="muniandarapa: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="muniandarapa: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mision_vision: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controllers/sliderControllersC.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="355" column="45" lean-forward="true" selection-start-line="355" selection-start-column="45" selection-end-line="355" selection-end-column="45" />
+              <folding>
+                <element signature="n#mostrarImagenController#0;n#GestorSlidersC#0;n#!!top" />
+                <element signature="n#guardarSlider#0;n#GestorSlidersC#0;n#!!top" />
+                <element signature="n#vistaSliderController#0;n#GestorSlidersC#0;n#!!top" />
+                <element signature="n#datos_Slider_controlador#0;n#GestorSlidersC#0;n#!!top" />
+                <element signature="n#datos_SliderConteo_controlador#0;n#GestorSlidersC#0;n#!!top" />
+                <element signature="n#actualizarSliderController#0;n#GestorSlidersC#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/contenido/slider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="37" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/contenido/upSlider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="52" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Conexion::conectar();</find>
+      <find>idObrasP</find>
+      <find>idObrasPUP</find>
+      <find>idObrasP-del</find>
+      <find>white-space</find>
+      <find>white-space:nowrap</find>
+      <find>white-space:normal</find>
+      <find>idMVUP</find>
+      <find>idUP</find>
+      <find>idpdUP</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/controllers/loginControllers.php" />
+        <option value="$PROJECT_DIR$/views/contenido/organigrama.php" />
+        <option value="$PROJECT_DIR$/core/mainModel.php" />
+        <option value="$PROJECT_DIR$/views/contenido/planDesarrollo.php" />
+        <option value="$PROJECT_DIR$/views/js/gestorSlider.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/views/contenido/slider.php" />
+        <option value="$USER_HOME$/Desktop/CURSOS/Crea.aplicaciones.PHP.seguras.POO-MVC.PDO-SQL.AJAX/Archivos Base/09.GESTOR_ARTICULOS/backend/controllers/gestorArticulos.php" />
+        <option value="$PROJECT_DIR$/views/contenido/upSlider.php" />
+        <option value="$PROJECT_DIR$/views/contenido/upVision.php" />
+        <option value="$PROJECT_DIR$/views/contenido/upGobernante.php" />
+        <option value="$PROJECT_DIR$/views/contenido/misionVision.php" />
+        <option value="$PROJECT_DIR$/views/contenido/upOrganigrama.php" />
+        <option value="$PROJECT_DIR$/views/js/main.js" />
+        <option value="$PROJECT_DIR$/views/modules/logoutScript.php" />
+        <option value="$PROJECT_DIR$/views/template.php" />
+        <option value="$PROJECT_DIR$/views/contenido/login.php" />
+        <option value="$PROJECT_DIR$/views/modules/navTop.php" />
+        <option value="$PROJECT_DIR$/ajax/gestorSlider.php" />
+        <option value="$PROJECT_DIR$/ajax/gestorObrasP.php" />
+        <option value="$PROJECT_DIR$/core/configGeneral.php" />
+        <option value="$PROJECT_DIR$/views/contenido/gobernante.php" />
+        <option value="$PROJECT_DIR$/controllers/obrasPControllersC.php" />
+        <option value="$PROJECT_DIR$/models/sliderModelsM.php" />
+        <option value="$PROJECT_DIR$/controllers/sliderControllersC.php" />
+        <option value="$PROJECT_DIR$/views/modules/navLateral.php" />
+        <option value="$PROJECT_DIR$/views/contenido/obrasProyectos.php" />
+        <option value="$PROJECT_DIR$/views/contenido/upObrasP.php" />
+        <option value="$PROJECT_DIR$/views/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/views/ajax/gestorNoticias.php" />
+        <option value="$PROJECT_DIR$/views/js/gestorNoticia.js" />
+        <option value="$PROJECT_DIR$/controllers/noticiaControllersC.php" />
+        <option value="$PROJECT_DIR$/views/contenido/noticias.php" />
+        <option value="$PROJECT_DIR$/ajax/gestorNoticia.php" />
+        <option value="$PROJECT_DIR$/controllers/noticiassControllersC.php" />
+        <option value="$PROJECT_DIR$/models/noticiaModelsM.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.46200/archivo.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.9282/config.inc.php" />
+        <option value="$PROJECT_DIR$/models/config.php" />
+        <option value="$PROJECT_DIR$/views/contenido/upplanDesarrollo.php" />
+        <option value="$PROJECT_DIR$/views/contenido/upNovedades.php" />
+        <option value="$PROJECT_DIR$/controllers/archivos.php" />
+        <option value="$PROJECT_DIR$/controllers/noveArchivo.php" />
+        <option value="$PROJECT_DIR$/views/contenido/novedades.php" />
+        <option value="$PROJECT_DIR$/models/viewsModels.php" />
+        <option value="$PROJECT_DIR$/views/contenido/upNoticias.php" />
+        <option value="$PROJECT_DIR$/ajax/adminAjax.php" />
+        <option value="$PROJECT_DIR$/controllers/adminListControllersC.php" />
+        <option value="$PROJECT_DIR$/views/contenido/upMision.php" />
+        <option value="$PROJECT_DIR$/models/adminListModelsM.php" />
+        <option value="$PROJECT_DIR$/views/contenido/inicio.php" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="PfSovTCe" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="235" />
+    <option name="y" value="45" />
+    <option name="width" value="1105" />
+    <option name="height" value="925" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="backend" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="backend" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="backend" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="contenido" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../INREHYM" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AppServ\www\MuniiFinall\views\modules" />
+      <recent name="C:\AppServ\www\MuniiFinall\views\contenido" />
+      <recent name="C:\AppServ\www\MuniiFinall" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AppServ\www\backend\adjuntos" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d108154-1629-4812-be37-8e15fd1babc2" name="Default Changelist" comment="" />
+      <created>1560855687347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560855687347</updated>
+      <workItem from="1560855688599" duration="1987000" />
+      <workItem from="1560857716736" duration="60790000" />
+      <workItem from="1561034898733" duration="29181000" />
+      <workItem from="1561133218386" duration="21953000" />
+      <workItem from="1561255686291" duration="29339000" />
+      <workItem from="1561353374714" duration="11598000" />
+      <workItem from="1561400607975" duration="28231000" />
+      <workItem from="1561490251169" duration="6064000" />
+      <workItem from="1561509716872" duration="12586000" />
+      <workItem from="1561566817124" duration="22677000" />
+      <workItem from="1561735157834" duration="63281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="287687000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.16040269" />
+      <window_info id="DB Browser" order="3" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" weight="0.3295302" />
+      <window_info anchor="right" id="Database" order="5" weight="0.19865772" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>2210</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>2219</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>2137</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/loginControllers.php</url>
+          <line>41</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/loginControllers.php</url>
+          <line>22</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>2345</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/models/sliderModelsM.php</url>
+          <line>23</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/sliderControllersC.php</url>
+          <line>254</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/sliderControllersC.php</url>
+          <line>136</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/sliderControllersC.php</url>
+          <line>145</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>931</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/noticiassControllersC.php</url>
+          <line>215</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/noticiassControllersC.php</url>
+          <line>207</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>1205</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/sliderControllersC.php</url>
+          <line>177</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/sliderControllersC.php</url>
+          <line>181</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/adjuntos/obrasPControllersC.php</url>
+          <line>195</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/adjuntos/obrasPControllersC.php</url>
+          <line>199</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>1669</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>1956</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>1835</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/models/adminListModelsM.php</url>
+          <line>115</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/models/adminListModelsM.php</url>
+          <line>177</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/noticiassControllersC.php</url>
+          <line>497</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/views/contenido/inicio.php</url>
+          <line>50</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.46825/index.php</url>
+          <line>18</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>1510</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>291</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>283</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/adminListControllersC.php</url>
+          <line>2333</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/models/adminListModelsM.php</url>
+          <line>409</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/models/adminListModelsM.php</url>
+          <line>417</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/models/adminListModelsM.php</url>
+          <line>254</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="4" column="34267" lean-forward="true" selection-start-line="4" selection-start-column="34267" selection-end-line="4" selection-end-column="34267" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a879813a-cbc1-4995-bb37-f94d5d3f634e/schema/muniandarapa/table/noticias">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/obrasProyectos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/ajax/gestorNoticias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/js/gestorSlider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="60" selection-end-column="2" />
+          <folding>
+            <element signature="e#97#1808#0" />
+            <element signature="e#1847#4192#0" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#241#248#1" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#2;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#eliminar#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/ajax/gestorSlider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/js/gestorNoticia.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/gestorSlider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="60" selection-end-column="1" />
+          <folding>
+            <element signature="n#Ajax#0;n#!!top" />
+            <element signature="e#480#626#0#PHP" />
+            <element signature="e#704#1428#0#PHP" />
+            <element signature="e#948#1039#0#PHP" />
+            <element signature="e#1044#1261#0#PHP" />
+            <element signature="e#1266#1428#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/gestorNoticia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+          <folding>
+            <element signature="n#Ajax#0;n#!!top" />
+            <element signature="e#477#623#0#PHP" />
+            <element signature="e#594#756#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/noticiassControllersC.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="497" column="6" selection-start-line="497" selection-start-column="6" selection-end-line="500" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/noticiaModelsM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.11300/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.21749/archivo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.46200/archivo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/conexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.27427/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.1321/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.8106/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.6647/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.9282/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-end-line="76" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.46825/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/mainModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <element signature="n#encryption#0;n#mainModels#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.28176/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/configGeneral.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.7984/archivo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/login/lista.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-501" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/login/archivo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/archivos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="31" lean-forward="true" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/novedades.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/noveArchivo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/upNovedades.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="45" column="101" selection-start-line="45" selection-start-column="92" selection-end-line="45" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/login/datos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="28" column="108" selection-start-line="27" selection-start-column="12" selection-end-line="28" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7364.11115/lista.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="31" column="129" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/viewsModels.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/noticias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="73" column="51" selection-end-line="85" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/upObrasP.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/upGobernante.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="29" column="36" selection-start-line="29" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/upNoticias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#2348#2369#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/planDesarrollo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="70" lean-forward="true" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/upMision.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/upplanDesarrollo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="29" column="122" selection-start-line="29" selection-start-column="116" selection-end-line="29" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/adminListModelsM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-430">
+          <caret line="268" selection-start-line="268" selection-end-line="268" />
+          <folding>
+            <element signature="n#guardarNoticiaModel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#datos_ObrasP_modelo#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#datos_NoticiaConteo_modelo#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#deleteNoticiamodel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#actualizar_ObrasPModel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="e#1501#1806#0#PHP" />
+            <element signature="n#guardarObrasProyectosModels#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#guardarOPModel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#datos_ObrasP_modelo#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#datos_ObrasPConteo_modelo#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#actualizar_ObrasPModel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#deleteObrasPmodel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="e#4892#5597#0#PHP" />
+            <element signature="n#guardarGobernanteModel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#datos_Gobernante_modelo#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#datos_GobernanteConteo_modelo#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#actualizarGobernanteModel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#deleteGobernantemodel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#guardarMisionVision#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#borrarMisionVisionModel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#datos_MisionVision_modelo#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#actualizarMVModel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#guardarPlanDesarrollo#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#borrarPlanDModel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#datos_PlanDmodelo#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#datos_PlanDmodelo#1;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#actualizarPlanDModel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#guardarNovedades#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#datos_Novedadesmodelo#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#datos_NovedadesConteo_modelo#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#actualizarNovedadesModel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#deleteNovedadesmodel#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#guardarOrganigramaModels#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#datos_administrador_modelo#0;n#adminListModelssM#0;n#!!top" />
+            <element signature="n#actualizarOrganigramaModel#0;n#adminListModelssM#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/www/INREHYM/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/inicio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="100" column="47" selection-start-line="100" selection-start-column="47" selection-end-line="100" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/adminAjax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/adminListControllersC.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="1711" column="57" selection-start-line="1711" selection-start-column="57" selection-end-line="1711" selection-end-column="57" />
+          <folding>
+            <element signature="n#mostrarImagenController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#guardarNoticiaController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#vistaNoticiaController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#td#8;n#tr#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#8;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#1796#1803#1" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#td#8;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#td#8;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#td#8;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#td#8;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#8282#8589#0#PHP" />
+            <element signature="n#tr#0;n#!!top" />
+            <element signature="e#8711#9839#0#PHP" />
+            <element signature="n#datos_obrasP_ontrolador#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#datos_NotConteo_ontrolador#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#actualizar_ObrasPController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#deleteObrasPcontroller#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#mostrarImagenController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#guardarObrasPControllers#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#vistaObrasPController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#6;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#1579#1586#1" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#td#6;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#td#6;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#td#6;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#8609#9761#0#PHP" />
+            <element signature="n#datos_obrasP_ontrolador#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#datos_obrasPConteo_ontrolador#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#actualizar_ObrasPController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#deleteObrasPcontroller#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#guardarGobernanteControllers#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#vistaGobernanteController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#8;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#1761#1768#1" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#td#8;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#td#8;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#td#8;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#datos_Gobernante_controlador#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#datos_GobernanteConteo_controlador#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#actualizarGobernanteController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#deleteGobernantecontroller#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#guardarMisionVisionController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#vistaMisionVisionController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#4;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#924#931#1" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#td#4;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#td#4;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#datos_MisionVision_controlador#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#guardarPlanDController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#vistaPlanDcontroller#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#td#6;n#tr#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#6;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#1557#1564#1" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#td#6;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#td#6;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#borrarPlanDController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#datos_PlanDcontrolador#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#guardarNovedadesController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#vistaNovedadescontroller#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#div#0;n#!!top" />
+            <element signature="n#td#4;n#tr#0;n#!!top" />
+            <element signature="n#td#5;n#tr#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#5;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#1540#1547#1" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#td#5;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#td#5;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#datos_Novedadescontrolador#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#datos_NovedadesConteocontrolador#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#actualizarNovedadesController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="e#67780#67981#0#PHP" />
+            <element signature="n#deletenNovedadescontroller#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#guardarOrganigramaController#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#vistaOrganigramacontroller#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#td#4;n#tr#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#4;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#998#1005#1" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#td#4;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#td#4;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#td#4;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#deleteOrganigramacontroller#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#datos_administrador_controlador#0;n#adminListControllerssC#0;n#!!top" />
+            <element signature="n#actualizarOrganigramaController#0;n#adminListControllerssC#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="37" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contenido/upSlider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="52" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/sliderControllersC.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="355" column="45" lean-forward="true" selection-start-line="355" selection-start-column="45" selection-end-line="355" selection-end-column="45" />
+          <folding>
+            <element signature="n#mostrarImagenController#0;n#GestorSlidersC#0;n#!!top" />
+            <element signature="n#guardarSlider#0;n#GestorSlidersC#0;n#!!top" />
+            <element signature="n#vistaSliderController#0;n#GestorSlidersC#0;n#!!top" />
+            <element signature="n#datos_Slider_controlador#0;n#GestorSlidersC#0;n#!!top" />
+            <element signature="n#datos_SliderConteo_controlador#0;n#GestorSlidersC#0;n#!!top" />
+            <element signature="n#actualizarSliderController#0;n#GestorSlidersC#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
